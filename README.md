@@ -21,7 +21,7 @@ install.packages("highcharter")
 
 ## More info
 
-A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2018/06/18/how-much-money-should-machines-earn/)
+A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2018/06/17/how-much-money-should-machines-earn/)
 
 ## Authors
 
